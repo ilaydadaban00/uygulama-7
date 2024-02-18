@@ -1,0 +1,10 @@
+C:\Users\Seyda\source\repos\uygulam 7\uygulam 7\bin\Debug\uygulam 7.exe.config
+C:\Users\Seyda\source\repos\uygulam 7\uygulam 7\bin\Debug\uygulam 7.exe
+C:\Users\Seyda\source\repos\uygulam 7\uygulam 7\bin\Debug\uygulam 7.pdb
+C:\Users\Seyda\source\repos\uygulam 7\uygulam 7\obj\Debug\uygulam 7.csproj.AssemblyReference.cache
+C:\Users\Seyda\source\repos\uygulam 7\uygulam 7\obj\Debug\uygulam_7.Form1.resources
+C:\Users\Seyda\source\repos\uygulam 7\uygulam 7\obj\Debug\uygulam_7.Properties.Resources.resources
+C:\Users\Seyda\source\repos\uygulam 7\uygulam 7\obj\Debug\uygulam 7.csproj.GenerateResource.cache
+C:\Users\Seyda\source\repos\uygulam 7\uygulam 7\obj\Debug\uygulam 7.csproj.CoreCompileInputs.cache
+C:\Users\Seyda\source\repos\uygulam 7\uygulam 7\obj\Debug\uygulam 7.exe
+C:\Users\Seyda\source\repos\uygulam 7\uygulam 7\obj\Debug\uygulam 7.pdb
